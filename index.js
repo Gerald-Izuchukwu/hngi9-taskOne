@@ -11,7 +11,7 @@ app.use(
 
 app.get('/', (req, res) => {
 	res.status(200).json({
-		slackUsername: 'Jayyphire',
+		slackUsername: 'geraldlouisugwunna',
 		backend: true,
 		age: 24,
 		bio: 'I love to code but i am very lazy',
